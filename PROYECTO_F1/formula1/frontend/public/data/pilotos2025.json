@@ -1,0 +1,162 @@
+[
+  {
+    "nombre": "Lando Norris",
+    "numero": 4,
+    "equipo": "McLaren",
+    "puntos": 44,
+    "nacionalidad": "Británico",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/YEQ1jk1Y/s800/lando-norris-mclaren.jpg"
+  },
+  {
+    "nombre": "Oscar Piastri",
+    "numero": 81,
+    "equipo": "McLaren",
+    "puntos": 34,
+    "nacionalidad": "Australiano",
+    "imagen": "https://cdn-7.motorsport.com/images/mgl/YBe5yNn2/s800/oscar-piastri-mclaren.jpg"
+  },
+  {
+    "nombre": "Charles Leclerc",
+    "numero": 16,
+    "equipo": "Ferrari",
+    "puntos": 8,
+    "nacionalidad": "Monegasco",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/YMdm7R32/s800/charles-leclerc-ferrari.jpg"
+  },
+  {
+    "nombre": "Lewis Hamilton",
+    "numero": 44,
+    "equipo": "Ferrari",
+    "puntos": 9,
+    "nacionalidad": "Británico",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/2y3j5bg6/s800/lewis-hamilton-ferrari.jpg"
+  },
+  {
+    "nombre": "Max Verstappen",
+    "numero": 1,
+    "equipo": "Red Bull",
+    "puntos": 36,
+    "nacionalidad": "Neerlandés",
+    "imagen": "https://cdn-3.motorsport.com/images/mgl/6D1XbeV0/s800/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+    "nombre": "Yuki Tsunoda",
+    "numero": 22,
+    "equipo": "Red Bull",
+    "puntos": 3,
+    "nacionalidad": "Japonés",
+    "imagen": "https://cdn-5.motorsport.com/images/mgl/2y3jXqg6/s800/yuki-tsunoda-red-bull-racing.jpg"
+  },
+  {
+    "nombre": "George Russell",
+    "numero": 63,
+    "equipo": "Mercedes",
+    "puntos": 35,
+    "nacionalidad": "Británico",
+    "imagen": "https://cdn-5.motorsport.com/images/mgl/Y998Zb7Y/s800/george-russell-mercedes.jpg"
+  },
+  {
+    "nombre": "Kimi Antonelli",
+    "numero": 12,
+    "equipo": "Mercedes",
+    "puntos": 22,
+    "nacionalidad": "Italiano",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/27vkbNO0/s800/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+    "nombre": "Fernando Alonso",
+    "numero": 14,
+    "equipo": "Aston Martin",
+    "puntos": 0,
+    "nacionalidad": "Español",
+    "imagen": "https://cdn-7.motorsport.com/images/mgl/0ZRQbbN0/s800/fernando-alonso-aston-martin-r.jpg"
+  },
+  {
+    "nombre": "Lance Stroll",
+    "numero": 18,
+    "equipo": "Aston Martin",
+    "puntos": 10,
+    "nacionalidad": "Canadiense",
+    "imagen": "https://cdn-7.motorsport.com/images/mgl/0ZRQlG80/s800/lance-stroll-aston-martin.jpg"
+  },
+  {
+    "nombre": "Pierre Gasly",
+    "numero": 10,
+    "equipo": "Alpine",
+    "puntos": 0,
+    "nacionalidad": "Francés",
+    "imagen": "https://cdn-4.motorsport.com/images/mgl/2eADy3P2/s800/pierre-gasly-alpine.jpg"
+  },
+  {
+    "nombre": "Jack Doohan",
+    "numero": 7,
+    "equipo": "Alpine",
+    "puntos": 0,
+    "nacionalidad": "Australiano",
+    "imagen": "https://cdn-4.motorsport.com/images/mgl/YN1RO7J2/s400/jack-doohan-alpine.webp"
+  },
+  {
+    "nombre": "Esteban Ocon",
+    "numero": 31,
+    "equipo": "Haas",
+    "puntos": 10,
+    "nacionalidad": "Francés",
+    "imagen": "https://cdn-9.motorsport.com/images/mgl/Y99KyPxY/s800/esteban-ocon-haas-f1-team.jpg"
+  },
+  {
+    "nombre": "Oliver Bearman",
+    "numero": 87,
+    "equipo": "Haas",
+    "puntos": 4,
+    "nacionalidad": "Británico",
+    "imagen": "https://cdn-2.motorsport.com/images/mgl/6D1JxPO0/s800/oliver-bearman-haas.jpg"
+  },
+  {
+    "nombre": "Liam Lawson",
+    "numero": 30,
+    "equipo": "Racing Bulls",
+    "puntos": 0,
+    "nacionalidad": "Neozelandés",
+    "imagen": "https://cdn-6.motorsport.com/images/mgl/68yGp5V0/s800/liam-lawson.jpg"
+  },
+  {
+    "nombre": "Isack Hadjar",
+    "numero": 6,
+    "equipo": "Racing Bulls",
+    "puntos": 0,
+    "nacionalidad": "Francés",
+    "imagen": "https://cdn-4.motorsport.com/images/mgl/Yv8yaEv0/s800/isack-hadjar.jpg"
+  },
+  {
+    "nombre": "Alexander Albon",
+    "numero": 23,
+    "equipo": "Williams",
+    "puntos": 6,
+    "nacionalidad": "Tailandés",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/0rG38zm2/s800/alex-albon-williams.jpg"
+  },
+  {
+    "nombre": "Carlos Sainz Jr.",
+    "numero": 55,
+    "equipo": "Williams",
+    "puntos": 15,
+    "nacionalidad": "Español",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/2jXPqrg6/s400/carlos-sainz-williams.webp"
+  },
+  {
+    "nombre": "Nico Hülkenberg",
+    "numero": 27,
+    "equipo": "Kick Sauber",
+    "puntos": 3,
+    "nacionalidad": "Alemán",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/0RrX8LO0/s800/nico-hulkenberg-stake-f1-team.jpg"
+  },
+  {
+    "nombre": "Gabriel Bortoleto",
+    "numero": 5,
+    "equipo": "Kick Sauber",
+    "puntos": 0,
+    "nacionalidad": "Brasileño",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/YMd91XG2/s800/gabriel-bortoleto-sauber.jpg"
+  }
+]

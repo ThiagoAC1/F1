@@ -1,0 +1,31 @@
+.calendario-container {
+  color: white;
+}
+
+.titulo-calendario {
+  color: #e10600;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.proximo-evento {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  border: 2px solid #e10600;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.lista-eventos {
+  list-style: none;
+  padding: 0;
+}
+
+.evento {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #111;
+  border-radius: 10px;
+  border-left: 4px solid #e10600;
+}

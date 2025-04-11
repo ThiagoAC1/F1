@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "f1-api-node": "^2.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
