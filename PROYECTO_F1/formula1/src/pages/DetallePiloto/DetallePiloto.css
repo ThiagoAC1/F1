@@ -1,0 +1,42 @@
+.detalle-piloto {
+  padding: 2rem;
+  text-align: center;
+}
+
+.volver-btn {
+  background-color: #e10600;
+  color: white;
+  padding: 0.5rem 1.2rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  transition: background 0.3s ease;
+}
+.volver-btn:hover {
+  background-color: #ba0400;
+}
+
+.detalle-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.detalle-img {
+  width: 250px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin-bottom: 1rem;
+}
+
+.detalle-info {
+  max-width: 600px;
+  text-align: left;
+}
+
+.historia {
+  margin-top: 1rem;
+  line-height: 1.6;
+}

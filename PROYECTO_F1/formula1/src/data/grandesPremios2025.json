@@ -1,0 +1,242 @@
+[
+  {
+    "nombre": "Albert Park Circuit",
+    "ubicacion": "Melbourne, Australia",
+    "añoInauguracion": 1996,
+    "vueltas": 58,
+    "distanciaPorVuelta": "5.278km",
+    "mayorGanador": "Michael Schumacher (4 victorias)",
+    "historia": "Circuito urbano-temporal ubicado en un parque de Melbourne, sede del GP de Australia desde 1996.",
+    "imagen": "https://i.pinimg.com/736x/28/9f/80/289f80a28e209ab4075c7101ebe07c4a.jpg"
+  },
+  {
+    "nombre": "Shanghai International Circuit",
+    "ubicacion": "Shanghai, China",
+    "añoInauguracion": 2004,
+    "vueltas": 56,
+    "distanciaPorVuelta": "5.451km",
+    "mayorGanador": "Lewis Hamilton (5 victorias)",
+    "historia": "Circuito moderno diseñado por Hermann Tilke, famoso por su curva en forma de 'L'.",
+    "imagen": "https://i.pinimg.com/736x/96/3f/ec/963fecb2319a53b0a6a41f17c9178132.jpg"
+  },
+  {
+    "nombre": "Suzuka Circuit",
+    "ubicacion": "Suzuka, Japón",
+    "añoInauguracion": 1962,
+    "vueltas": 53,
+    "distanciaPorVuelta": "5.807km",
+    "mayorGanador": "Michael Schumacher (6 victorias)",
+    "historia": "Uno de los pocos circuitos con forma de 8, reconocido por sus curvas desafiantes y legado en F1.",
+    "imagen": "https://i.pinimg.com/736x/01/5e/49/015e490957b1bbb6248f00d23c98f95a.jpg"
+  },
+  {
+    "nombre": "Circuito Internacional de Sakhir",
+    "ubicacion": "Bahrain",
+    "añoInauguracion": 2003,
+    "vueltas": 57,
+    "distanciaPorVuelta": "5.412km",
+    "mayorGanador": "Lewis Hamilton (5 victorias)",
+    "historia": "Primer GP nocturno en el desierto, caracterizado por sus largas rectas y condiciones climáticas extremas.",
+    "imagen": "https://i.pinimg.com/736x/93/d3/55/93d3559b8a9b80253a55faa5c9f66710.jpg"
+  },
+  {
+    "nombre": "Jeddah Corniche Circuit",
+    "ubicacion": "Jeddah, Arabia Saudita",
+    "añoInauguracion": 2021,
+    "vueltas": 50,
+    "distanciaPorVuelta": "6.174km",
+    "mayorGanador": "Max Verstappen (2 victorias)",
+    "historia": "Circuito urbano de alta velocidad, escenario del Gran Premio nocturno en Arabia Saudita.",
+    "imagen": "https://i.pinimg.com/736x/a9/77/69/a9776970340b72a49ac40380baf805e7.jpg"
+  },
+  {
+    "nombre": "Miami International Autodrome",
+    "ubicacion": "Miami, Estados Unidos",
+    "añoInauguracion": 2022,
+    "vueltas": 57,
+    "distanciaPorVuelta": "5.412km",
+    "mayorGanador": "Max Verstappen (2 victorias)",
+    "historia": "Circuito urbano temporal ubicado en el Hard Rock Stadium, uno de los más recientes en el calendario.",
+    "imagen": "https://i.pinimg.com/736x/c7/d9/60/c7d960d060b1e447e82362c62b49562b.jpg"
+  },
+  {
+    "nombre": "Imola - Autodromo Enzo e Dino Ferrari",
+    "ubicacion": "Emilia-Romaña, Italia",
+    "añoInauguracion": 1953,
+    "vueltas": 63,
+    "distanciaPorVuelta": "4.909km",
+    "mayorGanador": "Michael Schumacher (5 victorias)",
+    "historia": "Circuito con gran historia en la F1, famoso por su exigente trazado técnico y legado en motor.",
+    "imagen": "https://i.pinimg.com/736x/06/dc/f8/06dcf8f73f2272d523ba7da89b9b0b4a.jpg"
+  },
+  {
+    "nombre": "Circuit de Monaco",
+    "ubicacion": "Montecarlo, Mónaco",
+    "añoInauguracion": 1929,
+    "vueltas": 78,
+    "distanciaPorVuelta": "3.337km",
+    "mayorGanador": "Ayrton Senna (6 victorias)",
+    "historia": "El GP más prestigioso y tradicional, conocido por sus calles estrechas y gran dificultad técnica.",
+    "imagen": "https://i.pinimg.com/736x/a4/03/2d/a4032de916d6b4d42fa719abbac212ca.jpg"
+  },
+  {
+    "nombre": "Circuit de Barcelona-Catalunya",
+    "ubicacion": "Montmeló, España",
+    "añoInauguracion": 1991,
+    "vueltas": 66,
+    "distanciaPorVuelta": "4.675km",
+    "mayorGanador": "Fernando Alonso (4 victorias)",
+    "historia": "Circuito que combina curvas rápidas y lentas, sede tradicional del GP de España.",
+    "imagen": "https://i.pinimg.com/736x/4e/b3/dd/4eb3dde5b59d094ce5d6eae48822fad4.jpg"
+  },
+  {
+    "nombre": "Circuit Gilles Villeneuve",
+    "ubicacion": "Montreal, Canadá",
+    "añoInauguracion": 1978,
+    "vueltas": 70,
+    "distanciaPorVuelta": "4.361km",
+    "mayorGanador": "Michael Schumacher (7 victorias)",
+    "historia": "Circuito ubicado en la isla de Notre Dame, famoso por sus muros cercanos y rebufos.",
+    "imagen": "https://i.pinimg.com/736x/4d/50/ba/4d50ba7fddbb7eaab579fba0c6abe850.jpg"
+  },
+  {
+    "nombre": "Red Bull Ring",
+    "ubicacion": "Spielberg, Austria",
+    "añoInauguracion": 1969,
+    "vueltas": 71,
+    "distanciaPorVuelta": "4.318km",
+    "mayorGanador": "Max Verstappen (4 victorias)",
+    "historia": "Circuito corto y rápido, conocido por su trazado que permite adelantamientos.",
+    "imagen": "https://i.pinimg.com/736x/d1/78/46/d17846bc1d10a30d44dcae75d27bc3cc.jpg"
+  },
+  {
+    "nombre": "Silverstone Circuit",
+    "ubicacion": "Silverstone, Reino Unido",
+    "añoInauguracion": 1950,
+    "vueltas": 52,
+    "distanciaPorVuelta": "5.891km",
+    "mayorGanador": "Lewis Hamilton (8 victorias)",
+    "historia": "Cuna de la F1 moderna, con curvas icónicas como Copse y Maggotts.",
+    "imagen": "https://i.pinimg.com/736x/01/37/4b/01374b6d6e39200d9d4fdab749687253.jpg"
+  },
+  {
+    "nombre": "Circuit de Spa-Francorchamps",
+    "ubicacion": "Stavelot, Bélgica",
+    "añoInauguracion": 1925,
+    "vueltas": 44,
+    "distanciaPorVuelta": "7.004km",
+    "mayorGanador": "Michael Schumacher (6 victorias)",
+    "historia": "Reconocido mundialmente por sus curvas desafiantes y clima variable.",
+    "imagen": "https://i.pinimg.com/736x/84/a4/f0/84a4f014e28d513e3fd03e5d402c2444.jpg"
+  },
+  {
+    "nombre": "Hungaroring",
+    "ubicacion": "Mogyorod, Hungria",
+    "añoInauguracion": 1986,
+    "vueltas": 70,
+    "distanciaPorVuelta": "4.381km",
+    "mayorGanador": "Lewis Hamilton (8 victorias)",
+    "historia": "Circuito técnico y revirado en las afueras de Budapest, conocido por su dificultad para adelantar y su calor veraniego.",
+    "imagen": "https://i.pinimg.com/736x/84/a4/f0/84a4f014e28d513e3fd03e5d402c2444.jpg"
+  },
+  {
+    "nombre": "Circuit Zandvoort",
+    "ubicacion": "Zandvoort, Países Bajos",
+    "añoInauguracion": 1948,
+    "vueltas": 72,
+    "distanciaPorVuelta": "4.259km",
+    "mayorGanador": "Max Verstappen (3 victorias)",
+    "historia": "Circuito costero conocido por sus curvas rápidas y banco de arena cercano.",
+    "imagen": "https://i.pinimg.com/736x/5a/66/92/5a6692af2680f8c86ce1c6a3dd447d38.jpg"
+  },
+  {
+    "nombre": "Autodromo Nazionale Monza",
+    "ubicacion": "Monza, Italia",
+    "añoInauguracion": 1922,
+    "vueltas": 53,
+    "distanciaPorVuelta": "5.793km",
+    "mayorGanador": "Michael Schumacher (5 victorias)",
+    "historia": "El templo de la velocidad, uno de los circuitos más antiguos y rápidos del calendario.",
+    "imagen": "https://i.pinimg.com/736x/a1/77/ce/a177ce53ba429ee96fb79d993a1512ac.jpg"
+  },
+  {
+    "nombre": "Baku City Circuit",
+    "ubicacion": "Bakú, Azerbaiyán",
+    "añoInauguracion": 2016,
+    "vueltas": 51,
+    "distanciaPorVuelta": "6.003km",
+    "mayorGanador": "Sergio Pérez (2 victorias)",
+    "historia": "Circuito urbano con largas rectas y un desafiante casco antiguo.",
+    "imagen": "https://i.pinimg.com/736x/7c/56/0c/7c560c92cdc83dd2e5cb69f1a3bed763.jpg"
+  },
+  {
+    "nombre": "Marina Bay Street Circuit",
+    "ubicacion": "Singapur",
+    "añoInauguracion": 2008,
+    "vueltas": 62,
+    "distanciaPorVuelta": "4.928km",
+    "mayorGanador": "Sebastian Vettel (5 victorias)",
+    "historia": "Primer GP nocturno, con ambiente espectacular y clima húmedo.",
+    "imagen": "https://i.pinimg.com/736x/99/18/ac/9918ac6141a7f05cf673f3ded6d7174a.jpg"
+  },
+  {
+    "nombre": "Circuit of the Americas",
+    "ubicacion": "Austin, Estados Unidos",
+    "añoInauguracion": 2012,
+    "vueltas": 56,
+    "distanciaPorVuelta": "5.513km",
+    "mayorGanador": "Lewis Hamilton (5 victorias)",
+    "historia": "Circuito moderno con curvas inspiradas en otros trazados legendarios.",
+    "imagen": "https://i.pinimg.com/736x/aa/70/6b/aa706bac47bec8b66ae8980c84471fe7.jpg"
+  },
+  {
+    "nombre": "Autódromo Hermanos Rodríguez",
+    "ubicacion": "Ciudad de México, México",
+    "añoInauguracion": 1962,
+    "vueltas": 71,
+    "distanciaPorVuelta": "4.304km",
+    "mayorGanador": "Lewis Hamilton (4 victorias)",
+    "historia": "Circuito famoso por su altitud y la gran curva 'Peraltada'.",
+    "imagen": "https://i.pinimg.com/736x/36/d4/3c/36d43c7e0f4b089e43985024b0317c37.jpg"
+  },
+  {
+    "nombre": "Autódromo José Carlos Pace (Interlagos)",
+    "ubicacion": "São Paulo, Brasil",
+    "añoInauguracion": 1940,
+    "vueltas": 71,
+    "distanciaPorVuelta": "4.309km",
+    "mayorGanador": "Lewis Hamilton (3 victorias)",
+    "historia": "Circuito con clima variable y muchas sorpresas, sede tradicional del GP de Brasil.",
+    "imagen": "https://i.pinimg.com/736x/ad/ab/0f/adab0fdd09e96f045ba95ff934f07541.jpg"
+  },
+  {
+    "nombre": "Las Vegas Street Circuit",
+    "ubicacion": "Las Vegas, Estados Unidos",
+    "añoInauguracion": 2023,
+    "vueltas": 50,
+    "distanciaPorVuelta": "6.201km",
+    "mayorGanador": "Aún sin historial",
+    "historia": "Circuito urbano nocturno con espectáculo de luces en la ciudad del entretenimiento.",
+    "imagen": "https://i.pinimg.com/736x/90/aa/2e/90aa2ed4c4ec9a6216fa69ff4d665c74.jpg"
+  },
+  {
+    "nombre": "Losail International Circuit",
+    "ubicacion": "Lusail, Qatar",
+    "añoInauguracion": 2021,
+    "vueltas": 57,
+    "distanciaPorVuelta": "5.380km",
+    "mayorGanador": "Max Verstappen (2 victorias)",
+    "historia": "Circuito rápido en el desierto, conocido por su iluminación nocturna.",
+    "imagen": "https://i.pinimg.com/736x/f0/0f/66/f00f6631cfc81cd44622a6f346a9dfee.jpg"
+  },
+  {
+    "nombre": "Yas Marina Circuit",
+    "ubicacion": "Abu Dhabi, Emiratos Árabes Unidos",
+    "añoInauguracion": 2009,
+    "vueltas": 58,
+    "distanciaPorVuelta": "5.281km",
+    "mayorGanador": "Lewis Hamilton (5 victorias)",
+    "historia": "Circuito moderno con secciones bajo techo y un GP nocturno espectacular.",
+    "imagen": "https://i.pinimg.com/736x/f7/ee/0f/f7ee0f2e6ef520d19552249cfd55d5f8.jpg"
+  }
+]

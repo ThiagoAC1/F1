@@ -1,0 +1,191 @@
+[
+  {
+    "nombre": "Lando Norris",
+    "numero": 4,
+    "equipo": "McLaren",
+    "puntos": 176,
+    "nacionalidad": "Británico",
+    "historia": "Lando Norris es un piloto británico que se consolidó como uno de los talentos más prometedores de la F1. En 2024 logró su primera victoria y en 2025 continúa con McLaren, luchando regularmente por podios.",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/YEQ1jk1Y/s800/lando-norris-mclaren.jpg"
+  },
+  {
+    "nombre": "Oscar Piastri",
+    "numero": 81,
+    "equipo": "McLaren",
+    "puntos": 198,
+    "nacionalidad": "Australiano",
+    "historia": "El australiano ha tenido una progresión meteórica. En 2024 obtuvo su primer podio, y en 2025 se muestra como un contendiente sólido dentro de McLaren.",
+    "imagen": "https://cdn-7.motorsport.com/images/mgl/YBe5yNn2/s800/oscar-piastri-mclaren.jpg"
+  },
+  {
+    "nombre": "Charles Leclerc",
+    "numero": 16,
+    "equipo": "Ferrari",
+    "puntos": 104,
+    "nacionalidad": "Monegasco",
+    "historia": "Leclerc sigue siendo uno de los pilotos más veloces. En 2025 continúa en Ferrari, compartiendo equipo con Lewis Hamilton, formando una dupla fuerte en la lucha por el campeonato.",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/YMdm7R32/s800/charles-leclerc-ferrari.jpg"
+  },
+  {
+    "nombre": "Lewis Hamilton",
+    "numero": 44,
+    "equipo": "Ferrari",
+    "puntos": 79,
+    "nacionalidad": "Británico",
+    "historia": "El siete veces campeón del mundo sorprendió al firmar con Ferrari en 2025. Su experiencia ha elevado el rendimiento del equipo de Maranello.",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/2y3j5bg6/s800/lewis-hamilton-ferrari.jpg"
+  },
+  {
+    "nombre": "Max Verstappen",
+    "numero": 1,
+    "equipo": "Red Bull",
+    "puntos": 155,
+    "nacionalidad": "Neerlandés",
+    "historia": "Campeón mundial en 2021, 2022, 2023 y 2024, Verstappen sigue siendo el rival a batir en 2025, dominando con Red Bull y mostrando una consistencia imparable.",
+    "imagen": "https://cdn-3.motorsport.com/images/mgl/6D1XbeV0/s800/max-verstappen-red-bull-racing.jpg"
+  },
+  {
+    "nombre": "Yuki Tsunoda",
+    "numero": 22,
+    "equipo": "Red Bull",
+    "puntos": 10,
+    "nacionalidad": "Japonés",
+    "historia": "Tsunoda sigue compitiendo con el equipo Racing Bulls. En 2025 se ha mostrado más maduro, mejorando su consistencia.",
+    "imagen": "https://cdn-5.motorsport.com/images/mgl/2y3jXqg6/s800/yuki-tsunoda-red-bull-racing.jpg"
+  },
+  {
+    "nombre": "George Russell",
+    "numero": 63,
+    "equipo": "Mercedes",
+    "puntos": 136,
+    "nacionalidad": "Británico",
+    "historia": "Russell sigue como la punta de lanza en Mercedes. En 2025, lidera la reconstrucción del equipo tras la salida de Hamilton.",
+    "imagen": "https://cdn-5.motorsport.com/images/mgl/Y998Zb7Y/s800/george-russell-mercedes.jpg"
+  },
+  {
+    "nombre": "Kimi Antonelli",
+    "numero": 12,
+    "equipo": "Mercedes",
+    "puntos": 63,
+    "nacionalidad": "Italiano",
+    "historia": "El joven italiano debutó en F1 con Mercedes en 2025, siendo considerado uno de los talentos más prometedores del automovilismo europeo.",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/27vkbNO0/s800/andrea-kimi-antonelli-mercedes.jpg"
+  },
+  {
+    "nombre": "Fernando Alonso",
+    "numero": 14,
+    "equipo": "Aston Martin",
+    "puntos": 8,
+    "nacionalidad": "Español",
+    "historia": "A sus 43 años, Alonso sigue compitiendo con pasión. En 2025 permanece en Aston Martin, aportando experiencia y liderazgo al equipo.",
+    "imagen": "https://cdn-7.motorsport.com/images/mgl/0ZRQbbN0/s800/fernando-alonso-aston-martin-r.jpg"
+  },
+  {
+    "nombre": "Lance Stroll",
+    "numero": 18,
+    "equipo": "Aston Martin",
+    "puntos": 14,
+    "nacionalidad": "Canadiense",
+    "historia": "El canadiense continúa en Aston Martin, intentando consolidarse como un piloto más consistente dentro de la parrilla.",
+    "imagen": "https://cdn-7.motorsport.com/images/mgl/0ZRQlG80/s800/lance-stroll-aston-martin.jpg"
+  },
+  {
+    "nombre": "Pierre Gasly",
+    "numero": 10,
+    "equipo": "Alpine",
+    "puntos": 11,
+    "nacionalidad": "Francés",
+    "historia": "Gasly afronta una nueva etapa con Alpine, intentando recuperar la competitividad del equipo francés en 2025.",
+    "imagen": "https://cdn-4.motorsport.com/images/mgl/2eADy3P2/s800/pierre-gasly-alpine.jpg"
+  },
+  {
+    "nombre": "Franco Colapinto",
+    "numero": 43,
+    "equipo": "Alpine",
+    "puntos": 0,
+    "nacionalidad": "Argentino",
+    "historia": "Franco Colapinto es un piloto argentino nacido en Pilar, Buenos Aires, en 2003. Desde muy chico mostró talento en el karting y, como muchos pilotos sudamericanos con sueños europeos, emigró joven al Viejo Continente para seguir su carrera. Comenzó a destacarse en campeonatos de monoplazas como la F4 Española, donde fue campeón en 2019. Su estilo agresivo pero limpio lo llevó a competir en categorías como la Euroformula Open, Formula Renault Eurocup, y luego en la FIA F3, donde logró varias poles y podios. Más allá del rendimiento, Colapinto se volvió una figura muy querida por el público argentino, que lo ve como el gran sucesor de figuras como Fangio o Reutemann. En 2023, se integró a la academia de pilotos de Williams en Fórmula 1, dando un paso crucial para su futuro. En 2024 debutó en F2, la antesala directa a la F1, donde sigue construyendo su camino con determinación, talento y el sueño claro: ser el próximo argentino en la Fórmula 1.",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/YMdwdQm2/s300/franco-colapinto-alpine.webp"
+  },
+  {
+    "nombre": "Jack Doohan",
+    "numero": 7,
+    "equipo": "Alpine",
+    "puntos": 0,
+    "nacionalidad": "Australiano",
+    "historia": "El australiano debutó oficialmente con Alpine en 2025, luego de varios test y una temporada como piloto reserva.",
+    "imagen": "https://cdn-4.motorsport.com/images/mgl/YN1RO7J2/s400/jack-doohan-alpine.webp"
+  },
+  {
+    "nombre": "Esteban Ocon",
+    "numero": 31,
+    "equipo": "Haas",
+    "puntos": 22,
+    "nacionalidad": "Francés",
+    "historia": "Ocon pasó a Haas en 2025, buscando nuevos aires tras años con Alpine. Su experiencia es clave para el equipo estadounidense.",
+    "imagen": "https://cdn-9.motorsport.com/images/mgl/Y99KyPxY/s800/esteban-ocon-haas-f1-team.jpg"
+  },
+  {
+    "nombre": "Oliver Bearman",
+    "numero": 87,
+    "equipo": "Haas",
+    "puntos": 6,
+    "nacionalidad": "Británico",
+    "historia": "El británico, tras destacarse en F2, ahora corre para Haas en 2025. Su talento ha generado grandes expectativas.",
+    "imagen": "https://cdn-2.motorsport.com/images/mgl/6D1JxPO0/s800/oliver-bearman-haas.jpg"
+  },
+  {
+    "nombre": "Liam Lawson",
+    "numero": 30,
+    "equipo": "Racing Bulls",
+    "puntos": 4,
+    "nacionalidad": "Neozelandés",
+    "historia": "El neozelandés fue promovido al equipo Red Bull en 2025 tras actuaciones sólidas en AlphaTauri. Ahora lucha por mantenerse competitivo en el equipo campeón.",
+    "imagen": "https://cdn-6.motorsport.com/images/mgl/68yGp5V0/s800/liam-lawson.jpg"
+  },
+  {
+    "nombre": "Isack Hadjar",
+    "numero": 6,
+    "equipo": "Racing Bulls",
+    "puntos": 21,
+    "nacionalidad": "Francés",
+    "historia": "Hadjar debuta en F1 con Racing Bulls en 2025, luego de destacar en F2 como uno de los jóvenes más rápidos.",
+    "imagen": "https://cdn-4.motorsport.com/images/mgl/Yv8yaEv0/s800/isack-hadjar.jpg"
+  },
+  {
+    "nombre": "Alexander Albon",
+    "numero": 23,
+    "equipo": "Williams",
+    "puntos": 42,
+    "nacionalidad": "Tailandés",
+    "historia": "Albon sigue liderando el proyecto de Williams, con buenas actuaciones en 2024 que lo consolidaron como un piloto confiable.",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/0rG38zm2/s800/alex-albon-williams.jpg"
+  },
+  {
+    "nombre": "Carlos Sainz Jr.",
+    "numero": 55,
+    "equipo": "Williams",
+    "puntos": 13,
+    "nacionalidad": "Español",
+    "historia": "Sainz pasó a Williams en 2025 tras la llegada de Hamilton a Ferrari. Aporta experiencia al joven equipo y busca sumar puntos regularmente.",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/2jXPqrg6/s400/carlos-sainz-williams.webp"
+  },
+  {
+    "nombre": "Nico Hülkenberg",
+    "numero": 27,
+    "equipo": "Kick Sauber",
+    "puntos": 20,
+    "nacionalidad": "Alemán",
+    "historia": "El veterano alemán corre en 2025 con Kick Sauber, brindando experiencia y estabilidad en la transición del equipo hacia Audi.",
+    "imagen": "https://cdn-1.motorsport.com/images/mgl/0RrX8LO0/s800/nico-hulkenberg-stake-f1-team.jpg"
+  },
+  {
+    "nombre": "Gabriel Bortoleto",
+    "numero": 5,
+    "equipo": "Kick Sauber",
+    "puntos": 0,
+    "nacionalidad": "Brasileño",
+    "historia": "El brasileño debutó con Kick Sauber en 2025. Campeón de F3 en 2023, es una de las promesas del automovilismo sudamericano.",
+    "imagen": "https://cdn-8.motorsport.com/images/mgl/YMd91XG2/s800/gabriel-bortoleto-sauber.jpg"
+  }
+]

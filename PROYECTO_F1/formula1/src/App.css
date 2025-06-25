@@ -1,0 +1,313 @@
+/* ===== Reset Global ===== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* ===== Reset & Body ===== */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #0c0c0c;
+  color: #ffffff;
+  background-image: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ===== Navbar Fijo ===== */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: #111;
+  padding: 15px 40px;
+  border-bottom: 3px solid #e10600;
+  box-shadow: 0 2px 10px rgba(255, 0, 0, 0.2);
+}
+
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-logo {
+  color: #fff;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.navbar-menu {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-menu li {
+  padding: 5px 10px;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+.navbar-menu a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+.navbar-menu a:visited,
+.navbar-menu a:active {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-menu a:hover {
+  background-color: #e10600;
+  color: white;
+  transform: scale(1.05);
+}
+
+.navbar-menu .active-link {
+  background-color: #e10600;
+  color: white;
+}
+
+/* ===== App Container ===== */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 90px; /* espacio para el navbar fijo */
+  background-color: #0c0c0c;
+}
+
+/* ===== Contenido Principal ===== */
+.content-wrapper {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 2rem;
+  padding: 2rem;
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  box-shadow: 0 0 6px rgba(255, 0, 0, 0.4);
+}
+
+/* ===== Título de Página ===== */
+.page-title {
+  text-align: center;
+  color: #e10600;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #e10600;
+  padding-bottom: 0.5rem;
+}
+
+/* ===== Listado de Grandes Premios ===== */
+.gp-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.gp-item {
+  display: flex;
+  background-color: #222;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(225, 0, 0, 0.4);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.gp-item:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px rgba(225, 0, 0, 0.7);
+}
+
+.gp-image {
+  width: 160px;
+  height: 120px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.gp-info {
+  padding: 1rem 1.5rem;
+  color: #eee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gp-info h3 {
+  margin: 0 0 0.5rem 0;
+  color: #e10600;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.gp-info p {
+  margin: 0.25rem 0;
+  line-height: 1.3;
+  font-size: 0.95rem;
+}
+
+/* ===== Circuitos ===== */
+.circuito {
+  display: flex;
+  gap: 20px;
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+}
+
+.circuito img {
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.circuito .info {
+  flex: 1;
+}
+
+.circuito h3 {
+  color: #e10600;
+  margin-bottom: 10px;
+}
+
+/* ===== Escuderías (Teams) ===== */
+.team-card {
+  display: flex;
+  background-color: #222;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(225, 0, 0, 0.4);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  margin-bottom: 25px;
+}
+
+.team-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 15px rgba(225, 0, 0, 0.7);
+}
+
+.team-image {
+  width: 180px;
+  height: 120px;
+  object-fit: contain;
+  background-color: #000;
+  padding: 10px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-info a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #fff;
+  background-color: #e10600;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.team-info a:hover {
+  background-color: #9e0802;
+}
+
+.team-info h3 {
+  margin: 0 0 0.5rem 0;
+  color: #e10600;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.team-info p {
+  margin: 0.25rem 0;
+  font-size: 0.95rem;
+}
+
+.team-info a {
+  margin-top: 0.5rem;
+  color: #47110f;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.team-info a:hover {
+  background-color: #9e0802;
+}
+
+.logo-detalle {
+  width: 250px; /* O el tamaño que prefieras */
+  height: auto;
+  display: block;
+  margin: -20px auto;
+}
+
+.detalle-equipo {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.detalle-equipo h2 {
+  text-align: center;
+  color: red;
+  margin-top: 20px;
+}
+
+.detalle-equipo p {
+  font-size: 15px;
+  margin: 10px 0;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+  .team-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .team-image {
+    width: 100%;
+    height: auto;
+    margin-right: 0;
+  }
+
+  .team-info {
+    padding: 1rem;
+  }
+}
