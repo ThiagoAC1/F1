@@ -1,0 +1,164 @@
+{
+  "fastestLaps": [
+    {
+      "gp": "Australia",
+      "pista": "Albert Park Circuit (5,278 km)",
+      "escuderia": "McLaren‑Mercedes",
+      "piloto": "Lando Norris",
+      "vueltaRapida": {
+        "tiempo": "1:22.167",
+        "vuelta": 43
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:19.813",
+        "piloto": "Charles Leclerc",
+        "escuderia": "Ferrari SF‑24",
+        "año": 2024
+      }
+    },
+    {
+      "gp": "China",
+      "pista": "Shanghai International Circuit (5,451 km)",
+      "escuderia": "McLaren‑Mercedes",
+      "piloto": "Lando Norris",
+      "vueltaRapida": {
+        "tiempo": "1:35.454",
+        "vuelta": 53
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:32.238",
+        "piloto": "Michael Schumacher",
+        "escuderia": "Ferrari F2004",
+        "año": 2004
+      }
+    },
+    {
+      "gp": "Japón",
+      "pista": "Suzuka International Racing Course (5,807 km)",
+      "escuderia": "Mercedes‑AMG Petronas",
+      "piloto": "Kimi Antonelli",
+      "vueltaRapida": {
+        "tiempo": "1:30.965",
+        "vuelta": 50
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:30.965",
+        "piloto": "Kimi Antonelli",
+        "escuderia": "Mercedes AMG F1 W16",
+        "año": 2025
+      }
+    },
+    {
+      "gp": "Baréin",
+      "pista": "Bahrain International Circuit (5,412 km)",
+      "escuderia": "McLaren‑Mercedes",
+      "piloto": "Oscar Piastri",
+      "vueltaRapida": {
+        "tiempo": "1:35.140",
+        "vuelta": 36
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:31.447",
+        "piloto": "Pedro de la Rosa",
+        "escuderia": "Sauber Ferrari C23",
+        "año": 2005
+      }
+    },
+    {
+      "gp": "Arabia Saudí",
+      "pista": "Jeddah Corniche Circuit (6,174 km)",
+      "escuderia": "Red Bull Racing‑Honda RBPT",
+      "piloto": "Lando Norris",
+      "vueltaRapida": {
+        "tiempo": "1:31.778",
+        "vuelta": 49
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:30.734",
+        "piloto": "Lewis Hamilton",
+        "escuderia": "Mercedes W12",
+        "año": 2021
+      }
+    },
+    {
+      "gp": "Miami",
+      "pista": "Miami International Autodrome (5,412 km)",
+      "escuderia": "McLaren‑Mercedes",
+      "piloto": "Oscar Piastri",
+      "vueltaRapida": {
+        "tiempo": "1:30.634",
+        "vuelta": 57
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:29.708",
+        "piloto": "Max Verstappen",
+        "escuderia": "Red Bull RB19",
+        "año": 2023
+      }
+    },
+    {
+      "gp": "Emilia‑Romagna",
+      "pista": "Autodromo Enzo e Dino Ferrari (4,909 km)",
+      "escuderia": "Red Bull Racing‑Honda RBPT",
+      "piloto": "Max Verstappen",
+      "vueltaRapida": {
+        "tiempo": "1:17.988",
+        "vuelta": 61
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:14.411",
+        "piloto": "Max Verstappen",
+        "escuderia": "Red Bull RB19",
+        "año": 2023
+      }
+    },
+    {
+      "gp": "Mónaco",
+      "pista": "Circuit de Monaco (3,337 km)",
+      "escuderia": "McLaren‑Mercedes",
+      "piloto": "Lando Norris",
+      "vueltaRapida": {
+        "tiempo": "1:13.221",
+        "vuelta": 44
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:12.909",
+        "piloto": "Max Verstappen",
+        "escuderia": "Red Bull RB20",
+        "año": 2024
+      }
+    },
+    {
+      "gp": "España",
+      "pista": "Circuit de Barcelona-Catalunya (4,675 km)",
+      "escuderia": "McLaren‑Mercedes",
+      "piloto": "Oscar Piastri",
+      "vueltaRapida": {
+        "tiempo": "1:15.743",
+        "vuelta": 55
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:18.149",
+        "piloto": "Lewis Hamilton",
+        "escuderia": "Mercedes W11",
+        "año": 2020
+      }
+    },
+    {
+      "gp": "Canadá",
+      "pista": "Circuit Gilles Villeneuve (4,361 km)",
+      "escuderia": "Mercedes‑AMG Petronas",
+      "piloto": "George Russell",
+      "vueltaRapida": {
+        "tiempo": "1:14.119",
+        "vuelta": 48
+      },
+      "mejorVueltaHistorica": {
+        "tiempo": "1:13.078",
+        "piloto": "Michael Schumacher",
+        "escuderia": "Ferrari F2004",
+        "año": 2004
+      }
+    }
+  ]
+}
